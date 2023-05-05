@@ -1,7 +1,0 @@
-SOURCE_URL=https://downloads.apache.org/guacamole/1.4.0/binary/guacamole-1.4.0.war
-SOURCE_SUM=92fb06e3ce8fe4f932ddfdffd75a352c06ab58d3bd0a946faa5beda73e8592f0
-SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=zip
-SOURCE_IN_SUBDIR=false
-SOURCE_FILENAME=guacamole.war
-SOURCE_EXTRACT=true
