@@ -12,7 +12,7 @@
 #=================================================
 
 function setup_sources {
-	guacamole_verson="1.4.0"
+	guacamole_verson="1.5.1"
 
 	ynh_setup_source --source_id="server" --dest_dir="$install_dir/.guacd-src"
 
