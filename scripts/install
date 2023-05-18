@@ -241,11 +241,11 @@ ynh_add_fail2ban_config --logpath="/var/log/syslog" --failregex='o.a.g.r.auth.Au
 
 # Make app public if necessary
 #REMOVEME? if [ $is_public -eq 1 ]
-then
+#then
 	# Everyone can access the app.
 	# The "main" permission is automatically created before the install script.
 #REMOVEME? 	ynh_permission_update --permission="main" --add="visitors"
-fi
+#fi
 
 #=================================================
 # RELOAD NGINX
