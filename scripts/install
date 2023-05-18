@@ -14,8 +14,8 @@ source /usr/share/yunohost/helpers
 #=================================================
 
 #REMOVEME? ynh_clean_setup () {
-	true
-}
+#	true
+#}
 # Exit if an error occurs during the execution of the script
 #REMOVEME? ynh_abort_if_errors
 
